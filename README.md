@@ -23,4 +23,4 @@ The game starts with a single color and adds one additional color to the sequenc
 - CSS
 - JavaScript
 
-## -Vidhi Harwani 
+## Vidhi Harwani 
